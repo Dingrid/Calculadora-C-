@@ -1,0 +1,16 @@
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\calculadora\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.exe
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\calculadora\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.deps.json
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\calculadora\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.json
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\calculadora\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.dev.json
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\calculadora\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.dll
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\calculadora\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.pdb
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\calculadora\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csproj.AssemblyReference.cache
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\calculadora\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.Form1.resources
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\calculadora\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csproj.GenerateResource.cache
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\calculadora\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\calculadora\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfoInputs.cache
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\calculadora\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfo.cs
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\calculadora\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\calculadora\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.dll
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\calculadora\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.pdb
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\calculadora\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.genruntimeconfig.cache
